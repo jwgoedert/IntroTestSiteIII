@@ -1,0 +1,37 @@
+/*
+element element
+class selector = .className
+id selector= #id-name
+
+"" {
+    property: value;
+}
+*/
+
+
+#firstChild{
+    color:pink;
+}
+
+.child {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#george{
+    color:blue;
+}
+#leila{
+    color:maroon;
+}
+#krysty{
+    color:green;
+}
+#myseisha{
+    color:yellow;
+}
+#james{
+    color:pink;
+}
+
+
+
