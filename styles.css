@@ -1,13 +1,6 @@
-/*
-element element
-class selector = .className
-id selector= #id-name
-
-"" {
-    property: value;
+#siteName{
+    color: pink;
 }
-*/
-
 
 #firstChild{
     color:pink;
@@ -26,7 +19,7 @@ id selector= #id-name
 #krysty{
     color:green;
 }
-#myseisha{
+#myeisha{
     color:yellow;
 }
 #james{
