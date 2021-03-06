@@ -25,9 +25,7 @@ for (var i = 0; i < firstNames.length; i++){
   tellFavorites(firstNames[i], lastNames[i], favoriteColors[i]);
   
 }
-////**
- * 来自张鑫旭:漫谈js自定义事件、DOM/伪DOM自定义事件
- */
+
 var Event = {
     _listeners: {},    
     // 添加
